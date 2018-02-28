@@ -32,14 +32,6 @@
     "label": "Arial"
   },
   {
-    "id": 5,
-    "classname": "fontpick fnt_avenir",
-    "param1": "Avenir",
-    "param2": "fnt_avenir",
-    "divId": "av",
-    "label": "Avenir"
-  },
-  {
     "id": 6,
     "classname": "fontpick fnt_beltwayprophecy",
     "param1": "beltwayprophecy",
@@ -48,28 +40,12 @@
     "label": "Beltway Prophecy"
   },
   {
-    "id": 7,
-    "classname": "fontpick fnt_bradley_hand",
-    "param1": "Bradley Hand",
-    "param2": "fnt_bradley_hand",
-    "divId": "br",
-    "label": "Bradley Hand"
-  },
-  {
     "id": 8,
     "classname": "fontpick fnt_bristol",
     "param1": "Bristol",
     "param2": "fnt_bristol",
     "divId": "bs",
     "label": "Bristol"
-  },
-  {
-    "id": 9,
-    "classname": "fontpick fnt_chalkboard_se",
-    "param1": "Chalkboard",
-    "param2": "fnt_chalkboard_se",
-    "divId": "ch",
-    "label": "Chalkboard"
   },
   {
     "id": 10,
@@ -90,10 +66,10 @@
   {
     "id": 12,
     "classname": "fontpick fnt_courier",
-    "param1": "Courier",
+    "param1": "Courier New",
     "param2": "fnt_courier",
     "divId": "co",
-    "label": "Courier"
+    "label": "Courier New"
   },
   {
     "id": 13,
@@ -102,14 +78,6 @@
     "param2": "fnt_degrassi",
     "divId": "de",
     "label": "Degrassi"
-  },
-  {
-    "id": 14,
-    "classname": "fontpick fnt_didot",
-    "param1": "Didot",
-    "param2": "fnt_didot",
-    "divId": "di",
-    "label": "Didot"
   },
   {
     "id": 15,
@@ -128,14 +96,6 @@
     "label": "F'Donkulous"
   },
   {
-    "id": 17,
-    "classname": "fontpick fnt_futura",
-    "param1": "Futura",
-    "param2": "fnt_futura",
-    "divId": "fu",
-    "label": "F'Futura"
-  },
-  {
     "id": 18,
     "classname": "fontpick fnt_gagalin",
     "param1": "gagalin",
@@ -144,36 +104,12 @@
     "label": "Gagalin"
   },
   {
-    "id": 19,
-    "classname": "fontpick fnt_gill_sans",
-    "param1": "Gill Sans",
-    "param2": "fnt_gill_sans",
-    "divId": "gi",
-    "label": "Gill Sans"
-  },
-  {
     "id": 20,
     "classname": "fontpick fnt_hawkeye",
     "param1": "hawkeye",
     "param2": "fnt_hawkeye",
     "divId": "ha",
     "label": "Hawkeye"
-  },
-  {
-    "id": 21,
-    "classname": "fontpick fnt_helvetica_neue",
-    "param1": "Helvetica Neue",
-    "param2": "fnt_helvetica_neue",
-    "divId": "he",
-    "label": "Helvetica Neue"
-  },
-  {
-    "id": 22,
-    "classname": "fontpick fnt_marion",
-    "param1": "Marion",
-    "param2": "fnt_marion",
-    "divId": "ma",
-    "label": "Marion"
   },
   {
     "id": 23,
@@ -186,7 +122,7 @@
   {
     "id": 24,
     "classname": "fontpick fnt_mostwasted",
-    "param1": "Most Wasted",
+    "param1": "Mostwasted",
     "param2": "fnt_mostwasted",
     "divId": "mo",
     "label": "Most Wasted"
@@ -200,28 +136,12 @@
     "label": "Munro"
   },
   {
-    "id": 26,
-    "classname": "fontpick fnt_noteworthy",
-    "param1": "Noteworthy",
-    "param2": "fnt_noteworthy",
-    "divId": "no",
-    "label": "Noteworthy"
-  },
-  {
     "id": 27,
     "classname": "fontpick fnt_overdrivesunset",
     "param1": "OverdriveSunset",
     "param2": "fnt_overdrivesunset",
     "divId": "od",
     "label": "Overdrive Sunset"
-  },
-  {
-    "id": 28,
-    "classname": "fontpick fnt_papyrus",
-    "param1": "Papyrus",
-    "param2": "fnt_papyrus",
-    "divId": "pa",
-    "label": "Papyrus"
   },
   {
     "id": 29,
@@ -256,14 +176,6 @@
     "label": "Resurgence"
   },
   {
-    "id": 33,
-    "classname": "fontpick fnt_san_francisco",
-    "param1": "San Francisco",
-    "param2": "fnt_san_francisco",
-    "divId": "sa",
-    "label": "San Francisco"
-  },
-  {
     "id": 34,
     "classname": "fontpick fnt_scandal",
     "param1": "scandal",
@@ -294,14 +206,6 @@
     "param2": "fnt_thebattlecont",
     "divId": "tb",
     "label": "The Battle Continues"
-  },
-  {
-    "id": 38,
-    "classname": "fontpick fnt_thonburi",
-    "param1": "Thonburi",
-    "param2": "fnt_thonburi",
-    "divId": "th",
-    "label": "Thonburi"
   },
   {
     "id": 39,
@@ -358,13 +262,5 @@
     "param2": "fnt_vcr_osd",
     "divId": "vc",
     "label": "VCR OSD Mono"
-  },
-  {
-    "id": 46,
-    "classname": "fontpick fnt_zapfino",
-    "param1": "Zapfino",
-    "param2": "fnt_zapfino",
-    "divId": "za",
-    "label": "Zapfino"
   }
 ]
